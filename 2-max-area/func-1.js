@@ -1,5 +1,4 @@
 const test = [1, 8, 6, 2, 5, 4, 8, 3, 7];
-// const test = [1, 8, 9, 6, 2, 5, 4, 9, 8, 7];
 function maxArea(height = []) {
   let left = 0;
   let right = height.length - 1;
