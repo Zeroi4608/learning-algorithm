@@ -4,7 +4,7 @@
  * 如果满足 返回 a 和 b 的下标，注：因为数组在不断变短,所以返回值a为arr[arr.length]
  *
  */
-const test = [2, 7, 11, 15];
+let test = [2, 7, 11, 15];
 const tar = 18;
 function twoSum(nums = [], target = 0) {
   let i = nums.length;
