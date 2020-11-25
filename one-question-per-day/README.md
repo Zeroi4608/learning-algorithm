@@ -41,4 +41,9 @@
 >难度：简单  
 >地址：https://leetcode-cn.com/problems/merge-two-sorted-lists/  
 
-
+### **Day6** 
+>题目：猜数字游戏  
+>状态：<font color=Cyan>已完成</font>  
+>编码：leetcode-299  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/merge-two-sorted-lists/  
