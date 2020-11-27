@@ -47,3 +47,17 @@
 >编码：leetcode-299  
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/merge-two-sorted-lists/  
+
+### **Day7** 
+>题目：设计循环双端队列  
+>状态：<font color=Cyan>已完成</font>  
+>编码：leetcode-641  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/design-circular-deque/  
+
+### **Day8** 
+>题目：两个数组的交集  
+>状态：<font color=Cyan>已完成</font>  
+>编码：leetcode-350  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/  
