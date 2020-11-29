@@ -61,3 +61,17 @@
 >编码：leetcode-350  
 >难度：简单  
 >地址：https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/  
+
+### **Day9** 
+>题目：删除最外层的括号  
+>状态：<font color=Cyan>已完成</font>  
+>编码：leetcode-1021  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/remove-outermost-parentheses/  
+
+### **Day10** 
+>题目：滑动窗口的最大值  
+>状态：<font color=Cyan>已完成</font>  
+>编码：剑指 Offer 59 - I  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/ 

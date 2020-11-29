@@ -6,9 +6,9 @@ var intersect = function (nums1, nums2) {
     const target = nums2.indexOf(nums1[i]);
     if (target > -1) {
       backArr.push(nums1[i]);
-      nums2[target] = '__isPush__';
+      nums2[target] = "__isPush__";
     }
   }
   return backArr;
 };
-console.log(intersect(arr1, arr2));
+intersect(arr1, arr2)
