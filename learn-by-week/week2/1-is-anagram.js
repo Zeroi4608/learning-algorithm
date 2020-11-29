@@ -1,6 +1,4 @@
-let str1 = "anagram",
-  str2 = "naagram";
-
+// 242. 有效的字母异位词
 // func 1
 var isAnagram1 = function (s, t) {
   let newStr1 = s.split("").sort().join("");
@@ -33,8 +31,6 @@ var isAnagram3 = function (s, t) {
       return false;
     }
   }
-
   return true;
 };
-
-console.log(isAnagram3(str1, str2));
+console.log(isAnagram3("anagram", "naagram"));
