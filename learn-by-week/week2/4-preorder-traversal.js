@@ -1,7 +1,6 @@
 // 144 二叉树前序遍历
 var preorderTraversal = function (root) {
   let res = [];
-
   const preorder = (root) => {
     if (!root) {
       return;
@@ -10,6 +9,6 @@ var preorderTraversal = function (root) {
     preorder(root.left);
     preorder(root.right);
   };
-
+  preorder(root);
   return res;
 };

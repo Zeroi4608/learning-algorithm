@@ -1,5 +1,4 @@
 // 49. 字母异位词分组
-let test = ["eat", "tea", "tan", "ate", "nat", "bat"];
 
 // sort 排序
 var groupAnagrams = function (strs, h = {}) {
@@ -10,4 +9,4 @@ var groupAnagrams = function (strs, h = {}) {
   return Object.values(h);
 };
 
-console.log(groupAnagrams(test));
+console.log(groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]));
