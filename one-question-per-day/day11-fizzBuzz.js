@@ -18,3 +18,14 @@ var fizzBuzz = function (n) {
   return res;
 };
 fizzBuzz(15);
+// let recursion = function (level, params) {
+//   // 终止条件
+//   if (level >= MAX_LEVEL) {
+//     return;
+//   }
+//   // 处理当前层逻辑
+//   process(level, data);
+
+//   // 下探到下一层
+//   recursion(level + 1, p1);
+// };

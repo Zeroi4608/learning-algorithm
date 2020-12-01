@@ -79,3 +79,11 @@
 >难度：简单  
 >地址：https://leetcode-cn.com/problems/fizz-buzz/ 
 
+### **Day12** 
+>题目：各位相加  
+>状态：已完成  
+>编码：leetcode-258  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/add-digits/ 
+
+
