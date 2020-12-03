@@ -92,3 +92,10 @@
 >编码：leetcode-104  
 >难度：简单  
 >地址：https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/ 
+
+### **Day14** 
+>题目：移动零  
+>状态：已完成  
+>编码：leetcode-283  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/move-zeroes/ 
