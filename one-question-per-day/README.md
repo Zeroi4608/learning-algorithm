@@ -106,3 +106,24 @@
 >编码：leetcode-94  
 >难度：简单  
 >地址：https://leetcode-cn.com/problems/binary-tree-inorder-traversal/ 
+
+### **Day16** 
+>题目：替换空格  
+>状态：已完成  
+>编码：剑指 Offer 05   
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/  
+
+### **Day17** 
+>题目：从尾到头打印链表  
+>状态：已完成  
+>编码：剑指 Offer 06   
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/  
+
+### **Day18** 
+>题目：二叉树的最近公共祖先  
+>状态：已完成  
+>编码：剑指 Offer 68 - II    
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/  
