@@ -135,3 +135,16 @@
 >难度：简单  
 >地址：https://leetcode-cn.com/problems/two-sum/  
 
+### **Day20** 
+>题目：三数之和  
+>状态：已完成  
+>编码：leetcode-15    
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/3sum/  
+
+### **Day21** 
+>题目：第 k 个数  
+>状态：已完成  
+>编码：面试题 17.09.  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/get-kth-magic-number-lcci/  
