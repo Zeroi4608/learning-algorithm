@@ -148,3 +148,25 @@
 >编码：面试题 17.09.  
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/get-kth-magic-number-lcci/  
+
+### **Day22** 
+>题目：全排列  
+>状态：已完成  
+>编码：leetcode-46  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/permutations/  
+
+### **Day23** 
+>题目：斐波那契数  
+>状态：已完成  
+>编码：leetcode-509  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/fibonacci-number/  
+
+### **Day24** 
+>题目：买卖股票的最佳时机  
+>状态：已完成  
+>编码：leetcode-122   
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/  
+
