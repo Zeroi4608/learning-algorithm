@@ -184,3 +184,13 @@
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/number-of-islands/ 
 
+### **Day27** 
+>题目：多数元素  
+>状态：已完成  
+>编码：leetcode-169   
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/majority-element/description/ 
+
+
+
+
