@@ -168,29 +168,41 @@
 >状态：已完成  
 >编码：leetcode-122   
 >难度：简单  
->地址：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/ 
+>地址：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/  
 
 ### **Day25** 
 >题目：柠檬水找零  
 >状态：已完成  
 >编码：leetcode-860   
 >难度：简单  
->地址：https://leetcode-cn.com/problems/lemonade-change/description/ 
+>地址：https://leetcode-cn.com/problems/lemonade-change/description/  
 
 ### **Day26** 
 >题目：岛屿数量  
 >状态：已完成  
 >编码：leetcode-200   
 >难度：**中等**  
->地址：https://leetcode-cn.com/problems/number-of-islands/ 
+>地址：https://leetcode-cn.com/problems/number-of-islands/  
 
 ### **Day27** 
 >题目：多数元素  
 >状态：已完成  
 >编码：leetcode-169   
 >难度：简单  
->地址：https://leetcode-cn.com/problems/majority-element/description/ 
+>地址：https://leetcode-cn.com/problems/majority-element/description/  
 
+### **Day28** 
+>题目：有效的完全平方数  
+>状态：已完成  
+>编码：leetcode-367   
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/valid-perfect-square/  
 
+### **Day29** 
+>题目：单词接龙  
+>状态：已完成  
+>编码：leetcode-127   
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/word-ladder/description/  
 
 
