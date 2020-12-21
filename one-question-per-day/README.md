@@ -206,3 +206,16 @@
 >地址：https://leetcode-cn.com/problems/word-ladder/description/  
 
 
+### **Day30** 
+>题目：和为K的子数组  
+>状态：已完成  
+>编码：leetcode-560   
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/subarray-sum-equals-k/  
+
+### **Day31** 
+>题目：模拟行走机器人  
+>状态：已完成  
+>编码：leetcode-874   
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/walking-robot-simulation/description/  
