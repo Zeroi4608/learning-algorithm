@@ -219,3 +219,18 @@
 >编码：leetcode-874   
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/walking-robot-simulation/description/  
+
+### **Day32** 
+>题目：最大子序和  
+>状态：已完成  
+>编码：leetcode-53   
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/maximum-subarray/  
+
+
+### **Day33** 
+>题目：最长公共子序列  
+>状态：已完成  
+>编码：leetcode-1143   
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/longest-common-subsequence/  

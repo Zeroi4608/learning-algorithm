@@ -1,4 +1,7 @@
-let test = [1, 2, 3];
+/**
+ * @param {number[]} digits
+ * @return {number[]}
+ */
 var plusOne = function (digits = []) {
   for (let n = digits.length - 1; n >= 0; n--) {
     digits[n] += 1;
@@ -7,7 +10,9 @@ var plusOne = function (digits = []) {
       return digits;
     }
   }
-  digits = [...Array(digits.length + 1)].map(() => 0);
-  digits[0] = 1;
+  digits.unshift(1)
   return digits;
 };
+
+
+console.log(plusOne([8,9,9,9]))
