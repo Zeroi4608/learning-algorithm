@@ -234,3 +234,11 @@
 >编码：leetcode-1143   
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/longest-common-subsequence/  
+
+### **Day34** 
+>题目：搜索二维矩阵  
+>状态：已完成  
+>编码：leetcode-74   
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/search-a-2d-matrix/  
+
