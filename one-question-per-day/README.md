@@ -42,7 +42,7 @@
 >状态：已完成  
 >编码：leetcode-299  
 >难度：**中等**  
->地址：https://leetcode-cn.com/problems/merge-two-sorted-lists/  
+>地址：https://leetcode-cn.com/problems/bulls-and-cows/  
 
 ### **Day7** 
 >题目：设计循环双端队列  
