@@ -17,15 +17,20 @@ var fizzBuzz = function (n) {
   }
   return res;
 };
-fizzBuzz(15);
-// let recursion = function (level, params) {
-//   // 终止条件
-//   if (level >= MAX_LEVEL) {
-//     return;
-//   }
-//   // 处理当前层逻辑
-//   process(level, data);
 
-//   // 下探到下一层
-//   recursion(level + 1, p1);
-// };
+var fizzBuzz = function (n) {
+  let result = [];
+  for (let i = 1; i <= n; i++) {
+    if (Math.round(i / 3) === i / 3 && Math.round(i / 5) === i / 5) {
+      result.push("FizzBuzz");
+    } else if (Math.round(i / 3) === i / 3) {
+      result.push("Fizz");
+    } else if (Math.round(i / 5) === i / 5) {
+      result.push("Buzz");
+    } else {
+      result.push(i + "");
+    }
+  }
+  return result;
+};
+console.log(fizzBuzz(3));

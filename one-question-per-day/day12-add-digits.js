@@ -2,10 +2,11 @@
  * @param {number} num
  * @return {number}
  */
+
 var addDigits = function (num) {
   let res = "";
   const recursion = (num) => {
-    // 终止条件
+    // 递归终止条件
     if (num < 10) {
       res = num;
       return;
@@ -16,10 +17,10 @@ var addDigits = function (num) {
     for (let i = 0; i < num.length; i++) {
       nextNum += num[i] * 1;
     }
-    // 下探至下一层
-    recursion(nextNum * 1);
+    recursion(nextNum);
   };
   recursion(num);
   return res;
 };
-addDigits(59);
+
+console.log(addDigits(59));
