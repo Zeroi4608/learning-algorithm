@@ -242,3 +242,10 @@
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/search-a-2d-matrix/  
 
+### **Day35** 
+>题目：替换空格  
+>状态：已完成  
+>编码：剑指 Offer 05  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/  
+
