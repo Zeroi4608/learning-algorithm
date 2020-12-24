@@ -21,3 +21,16 @@ var reversePrint = function(head) {
     loop(head);
     return res.reverse();
 };
+
+var reversePrint = function(head) {
+    let res = [];
+    const loop = (head) => {
+        if(head === null) {
+            return
+        }
+        res.unshift(head.val)
+        loop(head.next)
+    }
+    loop(head);
+    return res;
+};

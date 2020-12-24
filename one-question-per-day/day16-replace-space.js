@@ -3,7 +3,7 @@
  * @return {string}
  */
 var replaceSpace = function (s = "") {
-  return s.split(" ").join("%20");
+  return s.replace(/\s/g, "%20")
 };
 
-replaceSpace("We are happy.");
+console.log(replaceSpace("We are happy."));
