@@ -249,3 +249,19 @@
 >难度：简单  
 >地址：https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/  
 
+### **Day36** 
+>题目：最小路径和  
+>状态：已完成  
+>编码：leetcode-64  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/minimum-path-sum/  
+
+### **Day37** 
+>题目：零钱兑换  
+>状态：已完成  
+>编码：leetcode-322  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/coin-change/  
+
+
+
