@@ -264,4 +264,32 @@
 >地址：https://leetcode-cn.com/problems/coin-change/  
 
 
+### **Day38** 
+>题目：N叉树的前序遍历  
+>状态：已完成  
+>编码：leetcode-589  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description/  
 
+### **Day39** 
+>题目：打家劫舍 II  
+>状态：已完成  
+>编码：leetcode-213  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/house-robber-ii/description/  
+
+
+### **Day40** 
+>题目：打家劫舍  
+>状态：已完成  
+>编码：leetcode-198  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/house-robber/  
+
+
+### **Day41** 
+>题目：搜索旋转排序数组  
+>状态：已完成  
+>编码：leetcode-33  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/search-in-rotated-sorted-array/  
