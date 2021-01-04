@@ -293,3 +293,32 @@
 >编码：leetcode-33  
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/search-in-rotated-sorted-array/  
+
+
+### **Day42** 
+>题目：单词搜索  
+>状态：已完成  
+>编码：leetcode-79  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/word-search/  
+
+### **Day43** 
+>题目：搜索二维矩阵 II  
+>状态：已完成  
+>编码：leetcode-240  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/search-a-2d-matrix-ii/  
+
+### **Day44** 
+>题目：实现 Trie (前缀树)  
+>状态：已完成  
+>编码：leetcode-208  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/implement-trie-prefix-tree/  
+
+### **Day45** 
+>题目：被围绕的区域  
+>状态：已完成  
+>编码：leetcode-130  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/surrounded-regions/  
