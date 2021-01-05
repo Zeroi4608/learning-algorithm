@@ -322,3 +322,10 @@
 >编码：leetcode-130  
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/surrounded-regions/  
+
+### **Day46** 
+>题目：乘积最大子数组  
+>状态：已完成  
+>编码：leetcode-152  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/maximum-product-subarray/  
