@@ -329,3 +329,17 @@
 >编码：leetcode-152  
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/maximum-product-subarray/  
+
+### **Day47** 
+>题目：单词接龙  
+>状态：已完成  
+>编码：leetcode-127  
+>难度：***困难***  
+>地址：https://leetcode-cn.com/problems/word-ladder-ii/  
+
+### **Day48** 
+>题目：三数之和  
+>状态：已完成  
+>编码：leetcode-15  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/3sum/  
