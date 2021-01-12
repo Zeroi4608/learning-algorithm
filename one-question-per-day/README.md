@@ -343,3 +343,33 @@
 >编码：leetcode-15  
 >难度：**中等**  
 >地址：https://leetcode-cn.com/problems/3sum/  
+
+### **Day49** 
+>题目：括号生成  
+>状态：已完成  
+>编码：leetcode-22  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/generate-parentheses/  
+
+
+### **Day50** 
+>题目：被围绕的区域  
+>状态：已完成  
+>编码：leetcode-130  
+>难度：**中等**  
+>地址：https://leetcode-cn.com/problems/surrounded-regions/  
+
+
+### **Day51** 
+>题目：有效的完全平方数  
+>状态：已完成  
+>编码：leetcode-367  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/valid-perfect-square/  
+
+### **Day52** 
+>题目：打家劫舍  
+>状态：已完成  
+>编码：leetcode-198  
+>难度：简单  
+>地址：https://leetcode-cn.com/problems/house-robber/  
