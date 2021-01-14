@@ -433,3 +433,19 @@
 > 编码：leetcode-24  
 > 难度：**中等**  
 > 地址：https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+
+### **Day55**
+
+> 题目：数组的相对排序  
+> 状态：已完成  
+> 编码：leetcode-1122  
+> 难度：简单  
+> 地址：https://leetcode-cn.com/problems/relative-sort-array/
+
+### **Day56**
+
+> 题目：数组的相对排序  
+> 状态：已完成  
+> 编码：leetcode-718  
+> 难度：**中等**  
+> 地址：https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/
